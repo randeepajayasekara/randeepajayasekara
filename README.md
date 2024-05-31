@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS and Tailwind**
 
-- 👯 I’m looking to collaborate on **Web Application Projects**
+- 👯 I’m looking to collaborate on **Web Application Projects and Programming Competitions**
 
 - 💬 Ask me about **C,C++, Python and CSS**
 
