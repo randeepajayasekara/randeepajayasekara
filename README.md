@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randeepa Jayasekara</h1>
 <h3 align="center">Curious Technophile and Aspiring Innovator from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randeepajayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="randeepajayasekara" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=randeepajayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="randeepajayasekara" /> </p> -->
 
 - 🔭 I’m currently working on **RCCS Developer Team**
 
@@ -23,6 +23,10 @@
 <img src="https://myreadme.vercel.app/api/embed/avincodes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avincodes&theme=tokyonight" alt="mystreak"/>
+
+![Metrics](https://metrics.lecoq.io/avincodes?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 <!---
 randeepajayasekara/randeepajayasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
