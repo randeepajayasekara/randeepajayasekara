@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Randeepa Jayasekara</h1>
 <h3 align="center">Curious Technophile and Aspiring Innovator from Sri Lanka</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=randeepajayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="randeepajayasekara" /> </p> -->
-
+  <img align="right" alt="animated-content" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <!-- <p>All rights reserved!</p> -->
+  
 - 🔭 I’m currently working on **RCCS Developer Team**
 
 - 🌱 I’m currently learning **JS and Tailwind**
@@ -27,7 +27,6 @@
 ![Metrics](https://metrics.lecoq.io/avincodes?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-
 
 
 <!---
