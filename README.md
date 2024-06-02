@@ -46,12 +46,12 @@
 <!-- <img src="https://myreadme.vercel.app/api/embed/avincodes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avincodes&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=randeepajayasekara&theme=tokyonight" alt="mystreak"/>
 
 </td>
 <td width="50%" align="center">
 
-![Metrics](https://metrics.lecoq.io/avincodes?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/randeepajayasekara?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 </td>
 </tr>
@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/avincodes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/randeepajayasekara?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
 
 ---
