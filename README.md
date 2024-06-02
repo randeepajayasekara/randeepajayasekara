@@ -43,8 +43,8 @@
 <td width="50%" align="center">
 
 
-<!-- <img src="https://myreadme.vercel.app/api/embed/avincodes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-
+<!-- <img src="https://myreadme.vercel.app/api/embed/randeepajayasekara?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
+<img width="69%" src="https://github-readme-stats.vercel.app/api/top-langs?username=randeepajayasekara&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=randeepajayasekara&theme=tokyonight" alt="mystreak"/>
 
