@@ -24,6 +24,9 @@
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{randeepajayasekara}/count.svg" alt="randeepajayasekara :: Visitor's Count" />
+</p>
 
 ---
 
