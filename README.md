@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="0%" align="left">
 
-- 🔭 I’m currently working on **RCCS Developer Team**
+- 🔭 I’m currently working on **Idealize'24**
 
 - 🌱 I’m currently learning **JS and Tailwind**
 
