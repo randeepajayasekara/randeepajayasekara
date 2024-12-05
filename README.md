@@ -7,13 +7,11 @@
 <tr border="none">
 <td width="0%" align="left">
 
-- 🔭 I’m currently working on **Idealize'24**
-
-- 🌱 I’m currently learning **JS and Tailwind**
+- 🌱 I’m currently mastering **React JS and Typescript**
 
 - 👯 I’m looking to collaborate on **Web Application Projects and Programming Competitions**
 
-- 💬 Ask me about **C,C++, Python and CSS**
+- 💬 Ask me about **React, Javascript, Python**
 
 </td>
 <td width="5%" align="right"> 
@@ -47,15 +45,14 @@
 
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/randeepajayasekara?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-<img width="69%" src="https://github-readme-stats.vercel.app/api/top-langs?username=randeepajayasekara&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=randeepajayasekara&theme=tokyonight" alt="mystreak"/>
+  <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=randeepajayasekara&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+  </a>
 
 </td>
 <td width="50%" align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=randeepajayasekara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<!--![Metrics](https://metrics.lecoq.io/randeepajayasekara?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)-->
 
 </td>
 </tr>
@@ -64,7 +61,9 @@
 ---
 
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/randeepajayasekara?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+
 </p>
 
 ---
