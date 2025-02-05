@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a **New Modern Portfolio Site🤫**
 
-- 🎓 I’m currently learning <a href="#gh-light-mode-only"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only"></a> **&amp;** <a href="#gh-dark-mode-only"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js#gh-dark-mode-only"/></a>
+- 🎓 I’m currently learning  <a href="#gh-light-mode-only"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only"></a> <a href="#gh-dark-mode-only"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js#gh-dark-mode-only"/></a>
 
 - 👨‍💻 I’m looking to collaborate on **Full Stack Web Application Projects**
 
