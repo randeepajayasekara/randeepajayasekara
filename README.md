@@ -188,17 +188,8 @@
 ---
 <table align="center">
   <tr border="none">
-    <td width="50%" align="center">
-      <!-- <img src="https://myreadme.vercel.app/api/embed/randeepajayasekara?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-      <a href="#gh-dark-mode-only">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=randeepajayasekara&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only"
-          alt="GitHub Streak"
-        />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <div>
+    <td align="center">
+            <div>
           &emsp;&emsp;&emsp;
           <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
               <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
@@ -210,6 +201,37 @@
     </td>
   </tr>
 </table>
+
+---
+<div align="center">
+    <!-- School Management Repo -->
+    <a href="https://github.com/randeepajayasekara/School-Management-System#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=randeepajayasekara&repo=School-Management-System&theme=github_dark#gh-dark-mode-only" alt="SchoolManagement Repo">
+    </a>
+    <a href="https://github.com/randeepajayasekara/School-Management-System/soundstate#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=randeepajayasekara&repo=School-Management-System&theme=vue#gh-light-mode-only" alt="School System">
+    </a>
+    <!-- CSACS Web Repo -->
+    <a href="https://github.com/randeepajayasekara/cyber-security-awareness-site#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=randeepajayasekara&repo=cyber-security-awareness-site&theme=github_dark#gh-dark-mode-only" alt="CSACS Repo">
+    </a>
+    <a href="https://github.com/randeepajayasekara/cyber-security-awareness-site#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=randeepajayasekara&repo=cyber-security-awareness-site&theme=vue#gh-light-mode-only" alt="CSACS Repo">
+    </a>
+    <!-- HaloWaypoint Repo -->
+    <a href="https://github.com/randeepajayasekara/Halo-Waypoint#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=randeepajayasekara&repo=Halo-Waypoint&theme=github_dark#gh-dark-mode-only" alt="Halo Waypoint Repo">
+    </a>
+    <a href="https://github.com/randeepajayasekara/Halo-Waypoint#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=randeepajayasekara&repo=Halo-Waypoint&theme=vue#gh-light-mode-only" alt="Halo Waypoint Repo">
+    </a>
+</div> <br/>
+
+---
+<div align="center">
+ <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+<img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+</div>
 
 ---
 
