@@ -18,7 +18,7 @@
 - 🤝 Ask me about **Web Development, AI and things I know ✨**
 
     </td>
-    <td width="5%" align="right">
+    <td width="25%" align="right">
       <img
         src="https://i0.wp.com/motionographer.com/wp-content/uploads/2016/03/intro_loop_v2.gif?resize=926%2C521&ssl=1"
         width="200px"
