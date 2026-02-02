@@ -202,7 +202,8 @@ const Randeepa: About = {
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </br> 
-<img src="https://github.com/user-attachments/assets/3a04aad4-a10a-49d9-8baa-24c4a2559c3a" alt="WordCloud" width="100%">
+<img src="https://github.com/user-attachments/assets/cfb63f9d-0eef-4454-956f-be0f030482ce" alt="WordCloud" width="100%">
+
 
 <!--
  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) 
