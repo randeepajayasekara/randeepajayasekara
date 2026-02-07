@@ -31,9 +31,7 @@ const Randeepa: About = {
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a3dbec13-aa38-417a-bd9d-2aacc6ad26a0">
-
-
+<img src="https://github.com/user-attachments/assets/a7285420-9a9e-4892-aecd-ce1bf708b75d">
 
 <p align="center">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=randeepajayasekara&show_icons=true&theme=radical&border_color=FF0000">
@@ -72,7 +70,7 @@ const Randeepa: About = {
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 
-<img src="https://github.com/user-attachments/assets/de60c49c-4b6f-4baf-a3db-fbcb4ad6b88c">
+<img src="https://github.com/user-attachments/assets/7f37a4ee-c309-4377-b742-fb8fa6ebf6c1">
 
 <!--Interest List-->
 
