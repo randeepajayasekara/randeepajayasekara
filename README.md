@@ -48,7 +48,7 @@ const Randeepa: About = {
 
 <p align="center">
   <img
-    src="https://github.com/randeepajayasekara/randeepajayasekara/blob/output/ocean.svg?color_snake=#FF0000&color_dots=#FF0000,#FF0000,#FF0000,#FF0000,#FF0000#gh-dark-mode-only"
+    src="https://github.com/randeepajayasekara/randeepajayasekara/blob/output/ocean.svg?color_snake=#FFFF00&color_dots=#DC143C,#FF2400,#FF7F50,#800000,#FF6961#gh-dark-mode-only"
     alt="Snake animation"
   />
   <img
