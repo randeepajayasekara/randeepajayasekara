@@ -15,8 +15,8 @@ import { Developer } from 'world';
 const Randeepa: About = {
   role: 'Student',
   pronouns: "he" | "him",
-  stack: ['React', 'Next.js', 'TypeScript'],
-  tools: ['Node', 'TailwindCSS', 'Framer Motion', 'PostgreSQL', 'Jest'],
+  stack: ['React/Next.js', 'C++', 'TypeScript'],
+  tools: ['Node', 'Firebase', 'Drizzle ORM', 'Git', 'Prisma', 'Jest'],
   
   learning: {
     language: 'Python',
