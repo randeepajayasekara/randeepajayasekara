@@ -27,7 +27,7 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg?color_snake=#FF0000
-            dist/ocean.svg?color_snake=#0043A3&color_dots=#DC143C,#FF2400,#FF7F50,#800000,#FF6961
+            dist/ocean.svg?color_snake=#FFFF00&color_dots=#DC143C,#FF2400,#FF7F50,#800000,#FF6961
         env:
           # a github token is required to fetch the contribution calendar from github API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
