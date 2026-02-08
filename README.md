@@ -29,7 +29,7 @@ const Randeepa: About = {
 ```
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a7285420-9a9e-4892-aecd-ce1bf708b75d">
@@ -48,24 +48,16 @@ const Randeepa: About = {
 
 <p align="center">
   <img
-    src="https://github.com/randeepajayasekara/randeepajayasekara/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only"
+    src="https://github.com/randeepajayasekara/randeepajayasekara/blob/output/ocean.svg?color_snake=#FF0000&color_dots=#FF0000,#FF0000,#FF0000,#FF0000,#FF0000#gh-dark-mode-only"
     alt="Snake animation"
   />
   <img
-    src="https://github.com/randeepajayasekara/randeepajayasekara/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only"
+    src="https://github.com/randeepajayasekara/randeepajayasekara/blob/output/github-snake.svg?color_snake=#FF0000#gh-light-mode-only"
     alt="Snake animation"
   />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
- <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-<img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
-</div>
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -78,7 +70,7 @@ const Randeepa: About = {
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
       alt="python"
       width="60"
       height="60"
@@ -125,7 +117,7 @@ const Randeepa: About = {
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36"
       alt="firebase"
       width="60"
       height="60"
@@ -149,7 +141,7 @@ const Randeepa: About = {
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"
       alt="nodejs"
       width="60"
       height="60"
@@ -194,18 +186,26 @@ const Randeepa: About = {
   </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+ <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+<img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+</div>
+<br/>
+
+<!--
 <img
   height="100"
   width="100%"
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FzcDh2MW83YzUyajlvNnV2MmNhbXBnYXpjM2ZkdG9zaHN4bmJscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w5ycESZxQbFlSuRm7M/giphy.webp"
   alt="flowing-sea"
 />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+-->
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 </br> 
-<img src="https://github.com/user-attachments/assets/cfb63f9d-0eef-4454-956f-be0f030482ce" alt="WordCloud" width="100%">
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 <!--
  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) 
