@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" height="300px">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="300px">
 
 
 ```javascript
@@ -10,8 +10,6 @@
 ██║  ██║██║  ██║██║ ╚████║██████╔╝███████╗███████╗██║     ██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
 
-import { Developer } from 'world';
-
 const Randeepa: About = {
   role: 'Student',
   pronouns: "he" | "him",
@@ -20,7 +18,7 @@ const Randeepa: About = {
   
   learning: {
     language: 'Python',
-    focus: 'AI/ML Development',
+    focus: 'Machine Learning',
     status: 'Newbie / Loading...'
   },
 
@@ -203,10 +201,10 @@ const Randeepa: About = {
 />
 -->
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
+<!--
 </br> 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
+  -->
 <!--
  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) 
   [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) 
